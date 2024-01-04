@@ -14,6 +14,5 @@
 
 ### Equipments List
 
-- 74LS32 TTL OR GATE IC
-- 74LS08 TTL AND GATE IC
+- All the logic gates
 - Standard set equipments
