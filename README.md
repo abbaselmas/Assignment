@@ -1,12 +1,12 @@
 ## Announcement
 
-## Assignment 8
-### Due Date: 03.01.2024 @ 23:50
+## Assignment 9
+### Due Date: 10.01.2024 @ 23:50
 
 ## Tasks
-1- Implement 4x1 multiplexer by using minimum amount of logic gates. 
+1- Implement S-R flip flop by using minimum amount of logic gates. Inputs are: S (set), R (reset) and C (clock). 
 2- Run the simulator and simulate every case of truth table in order. (Gif or video)  
-3- Save and Upload your circuit Digital design file to the repo like **Assignment8.dig**. 
+3- Save and Upload your circuit Digital design file to the repo like **Assignment9.dig**. 
 
 ### Screenshots
 
