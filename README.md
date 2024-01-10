@@ -3,7 +3,7 @@
  - There wont be excuse homework or any other assignment.
 
 ## Assignment 10
-### Due Date: 10.01.2024 @ 23:50
+### Due Date: 17.01.2024 @ 23:50
 
 ## Tasks
 1- Design an asynchronous 4-bit up counter with JK flip-flops. [Hint](https://aa.bbs.tr/lab/cen265-digital-design/lab9.pdf) 
