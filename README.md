@@ -1,18 +1,17 @@
 ## Announcement
+ - Assignment 10 is your last assignment. Evaluation will be done till 29.01.2024.
+ - There wont be excuse homework or any other assignment.
 
-## Assignment 9
+## Assignment 10
 ### Due Date: 10.01.2024 @ 23:50
 
 ## Tasks
-1- Implement S-R flip flop by using minimum amount of logic gates. Inputs are: S (set), R (reset) and C (clock). 
-2- Run the simulator and simulate every case of truth table in order. (Gif or video)  
-3- Save and Upload your circuit Digital design file to the repo like **Assignment9.dig**. 
+1- Design an asynchronous 4-bit up counter with JK flip-flops. [Hint](https://aa.bbs.tr/lab/cen265-digital-design/lab9.pdf) 
+    Optional: Build an oscillator with a 7414 Schmitt Trigger Inverter to use as a clock in your
+design (ref: [Clock.pdf](https://aa.bbs.tr/lab/cen265-digital-design/Clock.pdf))  
+2- Run the simulator. (Gif or video)  
+3- Save and Upload your circuit Digital design file to the repo like **Assignment10.dig**. 
 
 ### Screenshots
 
 *Insert Screenshots here*
-
-### Equipments List
-
-- All the logic gates
-- Standard set equipments
