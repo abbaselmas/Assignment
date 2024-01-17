@@ -14,4 +14,5 @@ design (ref: [Clock.pdf](https://aa.bbs.tr/lab/cen265-digital-design/Clock.pdf))
 
 ### Screenshots
 
-*Insert Screenshots here*
+![javaw_mC9jgJpAy9](https://github.com/abbaselmas/Assignment/assets/94970950/9de7e112-046b-4e09-ad43-e959917f14ca)
+
